@@ -24,21 +24,15 @@ In der Matrix selbst werden **keine Mikrocontroller** eingesetzt.
 
 ➡️ **[Anleitung öffnen (PDF)](./docs/Anleitung.pdf)**
 
+➡️ **[Videoanleitung](https://youtu.be/6fUdp8ToV98?si=Gxxmejqb-pIHadAP)**
+
 ## Interaktive BOM-/Board-Ansicht
 
 Die interaktive Ansicht ist hier im Repository enthalten:
 
-- [iBOM lokal im Repository öffnen](https://emilaltmann.github.io/mcgol/ibom.html)
+- [iBOM öffnen](https://emilaltmann.github.io/mcgol/ibom.html)
 
-Nach Aktivierung von GitHub Pages ist sie typischerweise erreichbar unter:
 
-- `https://<owner>.github.io/<repo>/ibom.html`
-
-Für dieses Repository wäre das:
-
-- `https://emilaltmann.github.io/mcgol/ibom.html`
-
-Falls die Seite noch nicht erreichbar ist, muss in den Repository-Einstellungen unter **Settings → Pages** die Quelle auf **GitHub Actions** gesetzt werden.
 
 ## Projektstruktur
 
