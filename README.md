@@ -28,7 +28,7 @@ In der Matrix selbst werden **keine Mikrocontroller** eingesetzt.
 
 Die interaktive Ansicht ist hier im Repository enthalten:
 
-- [iBOM lokal im Repository öffnen](./ibom.html)
+- [iBOM lokal im Repository öffnen](https://emilaltmann.github.io/mcgol/ibom.html)
 
 Nach Aktivierung von GitHub Pages ist sie typischerweise erreichbar unter:
 
